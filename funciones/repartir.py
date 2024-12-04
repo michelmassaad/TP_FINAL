@@ -1,5 +1,5 @@
 
-def repartir_cartas(baraja:list, cantidad_cartas:int=3):
+def repartir_cartas(baraja:list, cantidad_cartas:int=3) -> list:
     """
     Reparte una cantidad específica de cartas de la baraja.
     Recibe
